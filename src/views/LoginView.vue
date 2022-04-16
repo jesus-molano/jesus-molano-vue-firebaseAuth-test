@@ -40,6 +40,7 @@ const register = async () => {
   display: flex;
   justify-content: space-around;
   gap: 2rem;
+  flex-wrap: wrap;
 }
   h2{
     font-size: 2rem;
